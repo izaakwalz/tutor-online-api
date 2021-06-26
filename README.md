@@ -60,6 +60,6 @@ to check if node.js is installed on your machine, you should be able to run the 
 
 ## API DOCS 🚀
 
-###### <b>api docs ⚡:</b> [read-routes-docs](/src/docs/Readme.md)
+###### <b>api docs ⚡:</b> <a href="./src/docs/README.md">read-routes-docs</a>
 
 ###### <b>Repo URL: </b> [tutor-online-fe-repositry-url](https://github.com/izaakwalz/tutor-online-app)
