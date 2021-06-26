@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Integration Problems in Calculus: Solutions & Examples",
+    "link": "https://youtu.be/d4CdMoucVfs",
+    "summary": "In this lesson, you'll learn about the different types of integration problems you may encounter. You'll see how to solve each type and learn about the rules of integration that will help you.",
+    "test": [
+      {
+        "question": "Find the volume of the solid in the first octant bounded by the graphs of z = 1 - y 2, y = 2x, and x = 3.",
+        "options": [
+          {
+            "answer": false,
+            "option": "-35 units"
+          },
+          {
+            "option": "−45 units",
+            "answer": true
+          },
+          {
+            "answer": false,
+            "option": "-65 units"
+          },
+          {
+            "answer": false,
+            "option": "45 units"
+          }
+        ],
+        "ans": "The volume can be determined by applying the concept of integration. There are multiple methods such as disc method, washer method and shell method. For each of the following methods, an axis of revolution is must be needed. iven Data: The region bounded by the graphs of z = 1 − y 2 , y = 2 x and  x = 3 . It is given that the solid in the first octant is bounded by the graphs of  z = 1 −  2 ,y = 2x and x = 3.The volume of a solid can be evaluated as: V =∫∫∫dV Here  dV is the product of d x d y d z. The limits for the given case are given: x → 0 ≤ x ≤ 3y → 0 ≤ y ≤ 2 x z → 0 ≤ z ≤ 1 − y 2 Therefore: V = ∫ 30 ∫ 2 x 0 ∫ 1 − y 2 0 d zd y⋅ d x V = ∫ 30 [y − y  33 ] 2 x 0 d x V = ∫ 30 [2 x−( 2 x ) 33] d x V = ∫ 30 [2 x − 8 x 33] d x V = [2 x 22 − 8 x 43 × 4 ] 3  0 V = [32 − 2 × 34 3] V = − 45 Thus, the volume of the solid in the first octant bounded by the graphs  z = 1 − y 2,  y = 2 x and x = 3 is equivalent to  − 45 units 3."
+      },
+      {
+        "question": "Which of the following describes how these two inequalities will look when graphed together? 2y - 9 ≥ 4x and 4 < x + y",
+        "options": [
+          {
+            "option": "both boundary lines will be solid",
+            "answer": false
+          },
+          {
+            "option": "both boundary lines will be dotted",
+            "answer": false
+          },
+          {
+            "option": "they won't be any boundary lines",
+            "answer": false
+          },
+          {
+            "option": "one boundary line will be solid and one will be dotted",
+            "answer": true
+          }
+        ],
+        "ans": "https://study.com/academy/lesson/how-to-graph-2-variable-inequalities.html"
+      },
+      {
+        "question": "Solve the inequality 4x + 8 > 5x +9",
+        "options": [
+          {
+            "option": "x > 6",
+            "answer": false
+          },
+          {
+            "option": "x < -1",
+            "answer": true
+          },
+          {
+            "option": "x < 6",
+            "answer": false
+          },
+          {
+            "option": "x > 1",
+            "answer": false
+          }
+        ],
+        "ans": "https://study.com/academy/lesson/graphing-inequalities-practice-problems.html"
+      },
+      {
+        "question": "If 2x - 8 ≥ 2, then",
+        "options": [
+          {
+            "option": "x ≥ -5",
+            "answer": false
+          },
+          {
+            "option": "x ≤ -5",
+            "answer": true
+          },
+          {
+            "option": "x ≤ 5",
+            "answer": false
+          },
+          {
+            "option": "x ≥ 5",
+            "answer": true
+          }
+        ],
+        "ans": "The answer to this question:-> https://study.com/academy/lesson/graphing-inequalities-practice-problems.html"
+      }
+    ],
+    "meta": {
+      "meta_title": "Integration Problems in Calculus",
+      "meta_description": "Integration Problems in Calculus",
+      "meta_keywords": "Integration, Problems, Calculus"
+    }
+  },
+  {
+    "name": "Math 101: College Algebra",
+    "link": "https://youtu.be/grnP3mduZkM",
+    "summary": "Math 101: College Algebra has been evaluated and recommended for 3 semester hours and may be transferred to over 2,000 colleges and universities. This self-paced course offers you a simple way to get ahead on your degree, and you'll learn from expert math instructors who break down algebra topics in a way that's easy to understand and remember.",
+    "test": [
+      {
+        "question": "20 % of 2 is equal to",
+        "options": [
+          {
+            "option": "20",
+            "answer": false
+          },
+          {
+            "option": "4",
+            "answer": false
+          },
+          {
+            "option": "0.4",
+            "answer": true
+          },
+          {
+            "option": "0.04",
+            "answer": false
+          }
+        ],
+        "ans": "20 % of 2 = (20 / 100) * 2 = 0.4"
+      },
+      {
+        "question": "If Log 4 (x) = 12, then log 2 (x / 4) is equal to",
+        "options": [
+          {
+            "option": "11",
+            "answer": false
+          },
+          {
+            "option": "48",
+            "answer": false
+          },
+          {
+            "option": "-12",
+            "answer": false
+          },
+          {
+            "option": "22",
+            "answer": true
+          }
+        ],
+        "ans": "Solution to Question 1  Rewrite the logarithmic equations using exponential equation x- 3 / 2 = 1 / 8 The above equation may be rewritten as  x - 3 / 2 = 1 / 23 = 2-3  (√x)-3 = 2-3 The above equation gives   √x = 2 or x = 4    Solution to Question 2    20 % of 2 = (20 / 100) * 2 = 0.4    Solution to Question 3    If Log 4 (x) = 12, then   x = 412   x / 4 = 411  Hence  log 2 (x / 4) = log 2 (411)  = log 2 ((22)11) = log 2 (222) = 22"
+      },
+      {
+        "question": "f is a quadratic function whose graph is a parabola opening upward and has a vertex on the x-axis. The graph of the new function g defined by g(x) = 2 - f(x - 5) has a range defined by the interval",
+        "options": [
+          {
+            "option": "[ -5 , + infinity)",
+            "answer": false
+          },
+          {
+            "option": "[ 2 , + infinity)",
+            "answer": false
+          },
+          {
+            "option": "( - infinity , 2]",
+            "answer": true
+          },
+          {
+            "option": "( - infinity , 0]",
+            "answer": false
+          }
+        ],
+        "ans": ""
+      },
+      {
+        "question": "The population of a country increased by an average of 2% per year from 2000 to 2003. If the population of this country was 2 000 000 on December 31, 2003, then the population of this country on January 1, 2000, to the nearest thousand would have been",
+        "options": [
+          {
+            "option": "1 846 000",
+            "answer": true
+          },
+          {
+            "option": "1 852 000",
+            "answer": false
+          },
+          {
+            "option": "1 000 000",
+            "answer": false
+          },
+          {
+            "option": "1 500 000",
+            "answer": false
+          }
+        ],
+        "ans": ""
+      },
+      {
+        "question": "If Logx (1 / 8) = - 3 / 2, then x is equal to",
+        "options": [
+          {
+            "option": "-4",
+            "answer": false
+          },
+          {
+            "option": "4",
+            "answer": true
+          },
+          {
+            "option": "1/4",
+            "answer": false
+          },
+          {
+            "option": "10",
+            "answer": false
+          }
+        ],
+        "ans": "Rewrite the logarithmic equations using exponential equation x- 3 / 2 = 1 / 8 The above equation may be rewritten as x - 3 / 2 = 1 / 23 = 2-3 (√x)-3 = 2-3 The above equation gives √x = 2 or x = 4"
+      }
+    ],
+    "meta": {
+      "meta_title": "Math 101: College Algebra",
+      "meta_description": "Math 101: College Algebra",
+      "meta_keywords": "algebra 1"
+    }
+  },
+  {
+    "name": "Variables and Expressions",
+    "link": "https://youtu.be/vDqOoI-4Z6M",
+    "summary": "The basic concept of variables and expressions are discussed while solving the questions on algebraic expressions. A variable is an alphabet that represents the value that can be change.   A constant is a value which will remain same. A numerical expression contains only numeric constants and operations like addition (+), subtraction (–), multiplication (×) and division (÷). An algebraic expression contains both numeric and variables constants and also operations like addition (+), subtraction (–), multiplication (×) and division (÷).  How to evaluate an expression? To evaluate an expression is to find its value of the expression. In solving the questions on variables and expressions some of the key words and phrases play an important role to translate between algebraic expressions and words. To evaluate algebraic expressions we need substitute the given values for the variables and simplify to find the value of the expression.  Addition (+) is also known as plus, sum, increased by, put together, combined Subtraction (–) is also known as minus, difference, less than, find how much more or less  Multiplication (×) is also known as times, product, equal groups of, put together equal groups  Division (÷) is also known as divided by, quotient, separate into equal groups",
+    "test": [
+      {
+        "question": "1. Write two ways of each algebraic expression in words.",
+        "options": [
+          {
+            "option": "7 x 9",
+            "answer": false
+          },
+          {
+            "option": "m + 7",
+            "answer": true
+          },
+          {
+            "option": "c = 0",
+            "answer": false
+          },
+          {
+            "option": "Don't Know",
+            "answer": false
+          }
+        ],
+        "ans": "The difference of p to the fourth power and 9"
+      },
+      {
+        "question": "Write a verbal expression for each algebraic expression.",
+        "options": [
+          {
+            "option": "7 x 9",
+            "answer": false
+          },
+          {
+            "option": "m3 + cc",
+            "answer": false
+          },
+          {
+            "option": "7m3 + xy",
+            "answer": false
+          },
+          {
+            "option": "p4 - 9",
+            "answer": true
+          }
+        ],
+        "ans": "The difference of p to the fourth power and 9"
+      },
+      {
+        "question": "The three solutions of the equation f(x) = 0 are - 4, 8, and 11. 1 Therefore, the three solutions of the equation f(2 x) = 0 are",
+        "options": [
+          {
+            "option": " - 2, 4, and 11/2",
+            "answer": false
+          },
+          {
+            "option": " - 4, 8, and 11",
+            "answer": false
+          },
+          {
+            "option": ". - 8, d 16 and 22",
+            "answer": false
+          },
+          {
+            "option": "2, 19 / 2 and 7 / 2",
+            "answer": true
+          }
+        ],
+        "ans": "First rewrite y - 2x 2 = 8 x + 5 as y = 2x 2 + 8 x + 5 Complete square and determine vertex. y = 2(x 2 + 4x + 4) - 8 + 5 = 2(x + 2) 2 - 3  vertex at (- 2 , - 3) If parabola is translated 3 units to the left and 2 units up its vertex is also translated 3 units to the right and 2 units up .  vertex after translations is at: (-2 - 3 , - 3 + 2) = (-5 , -1)"
+      },
+      {
+        "question": "The three solutions of the equation f(x) = 0 are -2, 0, and 3. Therefore, the three solutions of the equation f(x - 2) = 0 are",
+        "options": [
+          {
+            "option": " - 2, 4, and 11/2",
+            "answer": true
+          },
+          {
+            "option": "-2, 0 and 3",
+            "answer": false
+          },
+          {
+            "option": " 4, 2, and 5",
+            "answer": false
+          },
+          {
+            "option": " 0, 2 and 5",
+            "answer": false
+          }
+        ],
+        "ans": "First rewrite y - 2x 2 = 8 x + 5 as y = 2x 2 + 8 x + 5 Complete square and determine vertex. y = 2(x 2 + 4x + 4) - 8 + 5 = 2(x + 2) 2 - 3  vertex at (- 2 , - 3) If parabola is translated 3 units to the left and 2 units up its vertex is also translated 3 units to the right and 2 units up .  vertex after translations is at: (-2 - 3 , - 3 + 2) = (-5 , -1)"
+      }
+    ],
+    "meta": {
+      "meta_title": "Variables and Expressions",
+      "meta_description": "Variables and Expressions",
+      "meta_keywords": "Variables, Expressions"
+    }
+  },
+  {
+    "name": "fractions thru algebra, section 1 - 2 - real numbers and their graphs",
+    "link": "https://youtu.be/grnP3mduZkM",
+    "summary": "ivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.",
+    "test": [
+      {
+        "question": "Circle all of the natural numbers in the following list",
+        "options": [
+          {
+            "answer": false,
+            "option": "-1.7, 1.2, 3/4, 3,"
+          },
+          {
+            "answer": true,
+            "option": "3, 5, 199"
+          },
+          {
+            "answer": false,
+            "option": "1.2, 3/4, 5/1"
+          },
+          {
+            "answer": false,
+            "option": "5, -41/37 1.2, 3/4, 199"
+          }
+        ]
+      },
+      {
+        "question": "Circle the whole Numbers in the List",
+        "options": [
+          {
+            "answer": false,
+
+            "option": "-5, 1/2, 0"
+          },
+          {
+            "answer": false,
+
+            "option": "0.35, 9, 47"
+          },
+          {
+            "answer": false,
+
+            "option": "1.2, 3/4, 5/1"
+          },
+          {
+            "answer": true,
+
+            "option": "9, 47, 2"
+          }
+        ]
+      },
+      {
+        "question": "Circle the Integers in the list",
+        "options": [
+          {
+            "answer": false,
+
+            "option": "0, 0.25"
+          },
+          {
+            "answer": false,
+
+            "option": "18/9, 0, 43"
+          },
+          {
+            "answer": false,
+
+            "option": "1, 19.9, 21/1"
+          },
+          {
+            "answer": true,
+
+            "option": "0, 7, -13"
+          }
+        ]
+      },
+      {
+        "question": "Place one of the symbols =, < or > in the blank space  to make a true statement -5 ____ 2",
+        "options": [
+          {
+            "answer": false,
+
+            "option": "-5 = 2"
+          },
+          {
+            "answer": false,
+
+            "option": "-5 =< 2"
+          },
+          {
+            "answer": true,
+
+            "option": "-5 < 2"
+          },
+          {
+            "answer": false,
+
+            "option": "-5 > 2"
+          }
+        ]
+      },
+      {
+        "question": "Which of these 3 + 3 ____ 1 + 5 will return a true statements",
+        "options": [
+          {
+            "answer": true,
+
+            "option": "3 + 3 > 1 + 5"
+          },
+          {
+            "answer": false,
+
+            "option": "3 + 3 = 1 + 5"
+          },
+          {
+            "answer": false,
+
+            "option": "3 + 3 >= 1 + 5"
+          },
+          {
+            "answer": true,
+
+            "option": "3 + 3 < 1 + 5"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "meta_title": "fractions thru algebra, section 1 - 2 real numbers and their graphs",
+      "meta_description": "fractions thru algebra, section 1 - real numbers and their graphs",
+      "meta_keywords": "fractions thru algebra, section 1 - real numbers and their graphs"
+    }
+  }
+]
