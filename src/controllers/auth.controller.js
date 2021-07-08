@@ -22,7 +22,7 @@ const signup = asyncHandler(async (req, res) => {
     uid: user._id,
     name: user.name,
     email: user.email,
-    isAdmin: user.isAdmin,
+    role: user.role,
     token: token,
   };
 
