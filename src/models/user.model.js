@@ -25,11 +25,20 @@ const userSchema = new Schema(
       trim: true,
       required: [true, 'Password is required'],
     },
-    isAdmin: {
-      type: Boolean,
-      default: false,
+    level: {
+      type: String,
+      enum: ['none', 'novice', 'intermediate', 'advanced', 'expert', 'master'],
+      message: 'user level is either: beginer, experinced, or expert',
+      required: [true, 'please select a level'],
+      default: 'none',
     },
-    // lessons: [{ type: mongoose.Schema.Types.ObjectId, ref: 'lesson' }],
+    role: {
+      type: String,
+      enum: ['user', 'tutor', 'admin'],
+      message: 'role is either: user or tutor',
+      required: [true, 'please select a role'],
+      default: 'user',
+    },
     active: {
       type: Boolean,
       default: true,
