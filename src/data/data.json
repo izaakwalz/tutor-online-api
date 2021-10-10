@@ -1,0 +1,887 @@
+{
+  "message": "Success: Data",
+  "success": true,
+  "data": [
+    {
+      "meta": {
+        "meta_title": "Subject title",
+        "meta_description": "Subject meta description",
+        "meta_keywords": "keywords here......"
+      },
+      "category": "novice",
+      "_id": "60a7c07b5079ba8ec84f30be",
+      "name": "fractions thru algebra, section 1 - real numbers and their graphs",
+      "link": "https://youtu.be/grnP3mduZkM",
+      "summary": "write a quick summary of this Subject",
+      "test": [
+        {
+          "_id": "60ac40b0ce8e518914dc6b6d",
+          "question": "Circle all of the natural numbers in the following list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b6e",
+              "option": "-1.7, 1.2, 3/4, 3,"
+            },
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b6f",
+              "option": "3, 5, 199"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b70",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b71",
+              "option": "5, -41/37 1.2, 3/4, 199"
+            }
+          ]
+        },
+        {
+          "_id": "60ac40b0ce8e518914dc6b72",
+          "question": "Circle the whole Numbers in the List",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b73",
+              "option": "-5, 1/2, 0"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b74",
+              "option": "0.35, 9, 47"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b75",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b76",
+              "option": "9, 47, 2"
+            }
+          ]
+        },
+        {
+          "_id": "60ac40b0ce8e518914dc6b77",
+          "question": "Circle the Integers in the list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b78",
+              "option": "0, 0.25"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b79",
+              "option": "18/9, 0, 43"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b7a",
+              "option": "1, 19.9, 21/1"
+            },
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b7b",
+              "option": "0, 7, -13"
+            }
+          ]
+        },
+        {
+          "_id": "60ac40b0ce8e518914dc6b7c",
+          "question": "Place one of the symbols =, < or > in the blank space  to make a true statement -5 ____ 2",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b7d",
+              "option": "-5 = 2"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b7e",
+              "option": "-5 =< 2"
+            },
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b7f",
+              "option": "-5 < 2"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b80",
+              "option": "-5 > 2"
+            }
+          ]
+        },
+        {
+          "_id": "60ac40b0ce8e518914dc6b81",
+          "question": "Which of these 3 + 3 ____ 1 + 5 will return a true statements",
+          "options": [
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b82",
+              "option": "3 + 3 > 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b83",
+              "option": "3 + 3 = 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60ac40b0ce8e518914dc6b84",
+              "option": "3 + 3 >= 1 + 5"
+            },
+            {
+              "answer": true,
+              "_id": "60ac40b0ce8e518914dc6b85",
+              "option": "3 + 3 < 1 + 5"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2021-05-21T14:15:23.650Z",
+      "updatedAt": "2021-05-25T00:11:28.518Z",
+      "slug": "fractions-thru-algebra-section-1-real-numbers-and-their-graphs"
+    },
+    {
+      "meta": {
+        "meta_title": "Subject title",
+        "meta_description": "Subject meta description",
+        "meta_keywords": "keywords here......"
+      },
+      "category": "novice",
+      "_id": "60a8d5d5db3c59451cb55e4d",
+      "name": "fractions thru algebra, section 2 - real numbers and their graphs",
+      "link": "https://youtu.be/i6sbjtJjJ-A",
+      "summary": "write a quick summary of this Subject",
+      "test": [
+        {
+          "_id": "60afc20cc5c59221d463f262",
+          "question": "Circle all of the natural numbers in the following list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f263",
+              "option": "-1.7, 1.2, 3/4, 3,"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f264",
+              "option": "3, 5, 199"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f265",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f266",
+              "option": "5, -41/37 1.2, 3/4, 199"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f267",
+          "question": "Circle the whole Numbers in the List",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f268",
+              "option": "-5, 1/2, 0"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f269",
+              "option": "0.35, 9, 47"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f26a",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f26b",
+              "option": "9, 47, 2"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f26c",
+          "question": "Circle the Integers in the list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f26d",
+              "option": "0, 0.25"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f26e",
+              "option": "18/9, 0, 43"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f26f",
+              "option": "1, 19.9, 21/1"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f270",
+              "option": "0, 7, -13"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f271",
+          "question": "Place one of the symbols =, < or > in the blank space  to make a true statement -5 ____ 2",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f272",
+              "option": "-5 = 2"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f273",
+              "option": "-5 =< 2"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f274",
+              "option": "-5 < 2"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f275",
+              "option": "-5 > 2"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f276",
+          "question": "Which of these 3 + 3 ____ 1 + 5 will return a true statements",
+          "options": [
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f277",
+              "option": "3 + 3 > 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f278",
+              "option": "3 + 3 = 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f279",
+              "option": "3 + 3 >= 1 + 5"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f27a",
+              "option": "3 + 3 < 1 + 5"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f27b",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f27c",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f27d",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f27e",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f27f",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f280",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f281",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f282",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f283",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f284",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f285",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f286",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f287",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f288",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f289",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f28a",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f28b",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f28c",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f28d",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f28e",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ]
+        },
+        {
+          "_id": "60afc20cc5c59221d463f28f",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f290",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f291",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60afc20cc5c59221d463f292",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60afc20cc5c59221d463f293",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2021-05-22T09:58:45.935Z",
+      "updatedAt": "2021-05-27T16:00:12.406Z",
+      "slug": "fractions-thru-algebra-section-2-real-numbers-and-their-graphs"
+    },
+    {
+      "meta": {
+        "meta_title": "Subject title",
+        "meta_description": "Subject meta description",
+        "meta_keywords": "keywords here......"
+      },
+      "category": "novice",
+      "_id": "60afc23dc5c59221d463f294",
+      "name": "math video tutor dvd – fractions thru algebra section 1 – real numbers and their graphs",
+      "link": "https://youtu.be/i6sbjtJjJ-A",
+      "summary": "Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.",
+      "test": [
+        {
+          "_id": "60b125f1472bdc33549b33b7",
+          "question": "Circle all of the natural numbers in the following list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33b8",
+              "option": "-1.7, 1.2, 3/4, 3,"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33b9",
+              "option": "3, 5, 199"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33ba",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33bb",
+              "option": "5, -41/37 1.2, 3/4, 199"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33bc",
+          "question": "Circle the whole Numbers in the List",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33bd",
+              "option": "-5, 1/2, 0"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33be",
+              "option": "0.35, 9, 47"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33bf",
+              "option": "1.2, 3/4, 5/1"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33c0",
+              "option": "9, 47, 2"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33c1",
+          "question": "Circle the Integers in the list",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33c2",
+              "option": "0, 0.25"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33c3",
+              "option": "18/9, 0, 43"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33c4",
+              "option": "1, 19.9, 21/1"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33c5",
+              "option": "0, 7, -13"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33c6",
+          "question": "Place one of the symbols =, < or > in the blank space  to make a true statement -5 ____ 2",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33c7",
+              "option": "-5 = 2"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33c8",
+              "option": "-5 =< 2"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33c9",
+              "option": "-5 < 2"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33ca",
+              "option": "-5 > 2"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33cb",
+          "question": "Which of these 3 + 3 ____ 1 + 5 will return a true statements",
+          "options": [
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33cc",
+              "option": "3 + 3 > 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33cd",
+              "option": "3 + 3 = 1 + 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33ce",
+              "option": "3 + 3 >= 1 + 5"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33cf",
+              "option": "3 + 3 < 1 + 5"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33d0",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d1",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d2",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33d3",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d4",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33d5",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d6",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d7",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33d8",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33d9",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33da",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33db",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33dc",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33dd",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33de",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33df",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e0",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e1",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33e2",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e3",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        },
+        {
+          "_id": "60b125f1472bdc33549b33e4",
+          "question": "Circle all of the natural numbers in the following list.",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e5",
+              "option": "101, -41, 0,"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e6",
+              "option": "½ , -0.5, 2, 47"
+            },
+            {
+              "answer": true,
+              "_id": "60b125f1472bdc33549b33e7",
+              "option": "30, 8, 5"
+            },
+            {
+              "answer": false,
+              "_id": "60b125f1472bdc33549b33e8",
+              "option": "-5, ½ , -0.5, 2, 47"
+            }
+          ],
+          "ans": "Natural numbers are all integers greater than or equal to 1…such as: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,……"
+        }
+      ],
+      "createdAt": "2021-05-27T16:01:01.745Z",
+      "updatedAt": "2021-05-28T17:18:41.804Z",
+      "slug": "math-video-tutor-dvd---fractions-thru-algebra-section-1---real-numbers-and-their-graphs"
+    },
+    {
+      "meta": {
+        "meta_title": "Subject title",
+        "meta_description": "Subject meta description",
+        "meta_keywords": "keywords, keywords 1, keywords 2"
+      },
+      "category": "novice",
+      "_id": "60e6f8ddbfc4d0244c1835ab",
+      "name": "corse name",
+      "link": "https://localhost:3000/",
+      "summary": "write a quick summary of this Subject",
+      "tutorID": "60e626763eb4d644dc04a11d",
+      "test": [],
+      "createdAt": "2021-07-08T13:08:45.072Z",
+      "updatedAt": "2021-07-08T13:08:45.072Z",
+      "slug": "corse-name"
+    },
+    {
+      "meta": {
+        "meta_title": "Math 101: College Algebra",
+        "meta_description": "Math 101: College Algebra",
+        "meta_keywords": "algebra 1"
+      },
+      "category": "novice",
+      "_id": "60e7095f4721f51c60753618",
+      "name": "math 101: college algebra",
+      "link": "https://youtu.be/grnP3mduZkM",
+      "summary": "Math 101: College Algebra has been evaluated and recommended for 3 semester hours and may be transferred to over 2,000 colleges and universities. This self-paced course offers you a simple way to get ahead on your degree, and you'll learn from expert math instructors who break down algebra topics in a way that's easy to understand and remember.",
+      "tutorID": "60e626763eb4d644dc04a11d",
+      "test": [
+        {
+          "_id": "60e70ca3399303445c99787a",
+          "question": "20 % of 2 is equal to",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99787b",
+              "option": "20"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99787c",
+              "option": "4"
+            },
+            {
+              "answer": true,
+              "_id": "60e70ca3399303445c99787d",
+              "option": "0.4"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99787e",
+              "option": "0.04"
+            }
+          ],
+          "ans": "20 % of 2 = (20 / 100) * 2 = 0.4"
+        },
+        {
+          "_id": "60e70ca3399303445c99787f",
+          "question": "If Log 4 (x) = 12, then log 2 (x / 4) is equal to",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997880",
+              "option": "11"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997881",
+              "option": "48"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997882",
+              "option": "-12"
+            },
+            {
+              "answer": true,
+              "_id": "60e70ca3399303445c997883",
+              "option": "22"
+            }
+          ],
+          "ans": "Solution to Question 1  Rewrite the logarithmic equations using exponential equation x- 3 / 2 = 1 / 8 The above equation may be rewritten as  x - 3 / 2 = 1 / 23 = 2-3  (√x)-3 = 2-3 The above equation gives   √x = 2 or x = 4    Solution to Question 2    20 % of 2 = (20 / 100) * 2 = 0.4    Solution to Question 3    If Log 4 (x) = 12, then   x = 412   x / 4 = 411  Hence  log 2 (x / 4) = log 2 (411)  = log 2 ((22)11) = log 2 (222) = 22"
+        },
+        {
+          "_id": "60e70ca3399303445c997884",
+          "question": "f is a quadratic function whose graph is a parabola opening upward and has a vertex on the x-axis. The graph of the new function g defined by g(x) = 2 - f(x - 5) has a range defined by the interval",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997885",
+              "option": "[ -5 , + infinity)"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997886",
+              "option": "[ 2 , + infinity)"
+            },
+            {
+              "answer": true,
+              "_id": "60e70ca3399303445c997887",
+              "option": "( - infinity , 2]"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997888",
+              "option": "( - infinity , 0]"
+            }
+          ],
+          "ans": ""
+        },
+        {
+          "_id": "60e70ca3399303445c997889",
+          "question": "The population of a country increased by an average of 2% per year from 2000 to 2003. If the population of this country was 2 000 000 on December 31, 2003, then the population of this country on January 1, 2000, to the nearest thousand would have been",
+          "options": [
+            {
+              "answer": true,
+              "_id": "60e70ca3399303445c99788a",
+              "option": "1 846 000"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99788b",
+              "option": "1 852 000"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99788c",
+              "option": "1 000 000"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99788d",
+              "option": "1 500 000"
+            }
+          ],
+          "ans": ""
+        },
+        {
+          "_id": "60e70ca3399303445c99788e",
+          "question": "If Logx (1 / 8) = - 3 / 2, then x is equal to",
+          "options": [
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c99788f",
+              "option": "-4"
+            },
+            {
+              "answer": true,
+              "_id": "60e70ca3399303445c997890",
+              "option": "4"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997891",
+              "option": "1/4"
+            },
+            {
+              "answer": false,
+              "_id": "60e70ca3399303445c997892",
+              "option": "10"
+            }
+          ],
+          "ans": "Rewrite the logarithmic equations using exponential equation x- 3 / 2 = 1 / 8 The above equation may be rewritten as x - 3 / 2 = 1 / 23 = 2-3 (√x)-3 = 2-3 The above equation gives √x = 2 or x = 4"
+        }
+      ],
+      "createdAt": "2021-07-08T14:19:12.055Z",
+      "updatedAt": "2021-07-08T14:33:07.784Z",
+      "slug": "math-101:-college-algebra"
+    }
+  ]
+}

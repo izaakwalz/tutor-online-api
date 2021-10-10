@@ -16,7 +16,7 @@ app.use(cors({ origin: true }));
 app.use('/api/v1', require('./routes/index.routes'));
 
 app.get('/', (req, res) => {
-  res.send('API IS RUNNING  🚨 🚨 🚨 🚨 ');
+	res.send('API IS RUNNING  🚨 🚨 🚨 🚨 ');
 });
 
 // error middlewares
@@ -26,8 +26,6 @@ app.use(errorHandler);
 const PORT = process.env.PORT || 4000;
 
 app.listen(PORT, async () => {
-  await connectDB();
-  console.log(
-    `:::> Server runing in ${process.env.NODE_ENV} mode @ http://localhost:${PORT}/api/v1/`
-  );
+	await connectDB();
+	console.log(`:::> Server runing in ${process.env.NODE_ENV} mode @ http://localhost:${PORT}/api/v1/`);
 });

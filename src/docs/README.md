@@ -8,10 +8,12 @@
 
 ###### example
 
-```
-   name: string,
-   email:  string,
-   password:  string,
+```json
+{
+  "name": "",
+  "email": "",
+  "password": ""
+}
 ```
 
 ###### payload
@@ -36,9 +38,11 @@
 
 ###### example
 
-```
-   email:  string,
-   password:  string,
+```json
+{
+  "email": "string",
+  "password": "string"
+}
 ```
 
 ###### payload
